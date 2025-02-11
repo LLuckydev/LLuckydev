@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/llucas_cvl/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-da-silva-cavalheiro-aa2118326/)
 <br/>
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LLuckydev&show_icons=true&theme=radical)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LLuckydev&show_icons=true&theme=dark)
 
 ## 🔮 Linguagens que tenho conheciento:
 
@@ -16,7 +16,9 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
 
-📋 Desenvolvedor frontend e backend! (fullstack):
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLuckydev&hide_progress=true)
+
+## 📋 Desenvolvedor frontend e backend! (fullstack):
 
 ### Nível :
 - Html : Intermediário
@@ -24,7 +26,7 @@
 - Javascript : Iniciante
 - ReactJs : Iniciante
 
-💬 Línguas faladas:
+## 💬 Línguas faladas:
 
 ### Nível :
 - Português : Para leitura, escrita e conversação. (Fluente)
