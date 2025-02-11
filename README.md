@@ -14,10 +14,17 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
 
-📚 Desenvolvedor frontend e backend! (fullstack):
+📋 Desenvolvedor frontend e backend! (fullstack):
 
 ### Nível :
 - Html : Intermediário
 - Css : Iniciante quase intermediário
 - Javascript : Iniciante
 - ReactJs : Iniciante
+
+💬 Línguas faladas:
+
+### Nível :
+- Português : Para leitura, escrita e conversação. (Fluente)
+- Inglês : Para leitura, escrita e conversação. (Avançado)
+- Espanhol : Para leitura e escrita. (Básico)
