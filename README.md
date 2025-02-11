@@ -14,7 +14,7 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
 
-📚 Estudante de programação e com foco para me tornar um desenvolvedor web de sucesso
+📚 Desenvolvedor backend e frontend:
 
 ### Nível :
 - Html : Intermediário
