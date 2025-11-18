@@ -31,4 +31,4 @@
 ### Nível :
 - Português : Para leitura, escrita e conversação. (Fluente)
 - Inglês : Para leitura, escrita e conversação. (Avançado)
-- Espanhol : Para leitura e escrita. (Básico)
+- Espanhol : Para leitura e escrita. (Iniciante)
