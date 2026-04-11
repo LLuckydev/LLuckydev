@@ -25,11 +25,13 @@
   <img align="center" alt="php" src="https://img.shields.io/badge/Php-20232A?style=for-the-badge&logo=php&logoColor=61DAFB"/>
 </div><br/>
 
-## Gráfico do Github
+## 📊 Gráfico do Github 
 
 <p align="center">
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucas-S-Cavalheiro&theme=apprentice" alt="Profile Summary">
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucas-S-Cavalheiro&theme=dark" alt="Profile Summary">
 </p>
+
+## ⚙️ Gráfico de linguagens
 
 
 
