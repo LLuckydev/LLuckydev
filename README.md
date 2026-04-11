@@ -33,7 +33,9 @@
 
 ## ⚙️ Gráfico de linguagens
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucas-S-Cavalheiro&theme=dark
+ <p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucas-S-Cavalheiro&theme=dark">
+ </p>
 
 ## 📋 Desenvolvedor frontend e backend! (fullstack):
 
