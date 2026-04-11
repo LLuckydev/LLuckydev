@@ -2,7 +2,7 @@
 <!-- Lucas da Silva Cavalheiro - README       -->
 <!-- ========================================== -->
 
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=900&color=00F5A0&center=true&vCenter=true&width=900&lines=Seja-bem-vindo+ao+Lucas+Cavalheiro+Git+hub!;Melhorando+todos+os+dias!;Criando+e+descobrindo+tudo-com+calma!;Front-end+Developer+%F0%9F%8D%80" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=900&color=00F5A0&center=true&vCenter=true&width=900&lines=Seja-bem-vindo+ao+Lucas+Cavalheiro+Git+hub!;Melhorando+todos+os+dias!;Criando+e+descobrindo+tudo+com+calma!;Front-end+Developer+%F0%9F%8D%80" />
 </p>
 
 <h1 align="center">🍀 Prazer, me chamo Lucas da Silva Cavalheiro 🍀</h1>
