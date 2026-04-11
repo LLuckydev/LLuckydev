@@ -28,7 +28,7 @@
 ## Gráfico do Github
 
 <p align="center">
-  <img src="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucas-S-Cavalheiro&theme=apprentice)" alt="Profile Details" />
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucas-S-Cavalheiro&theme=apprentice)
 </p>
 
 
