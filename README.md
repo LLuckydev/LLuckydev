@@ -8,7 +8,7 @@
 <h1 align="center">🍀 Prazer, me chamo Lucas da Silva Cavalheiro 🍀</h1>
 
 <p align="center">
-  <em>Sou desenvolvedor fullstack, e no momento front-end está sendo minha paixão, estou atualmente fazendo um curso técnico em informática.</em>
+  <em>Sou desenvolvedor front-end, e no momento ReactJs está sendo minha paixão, estou atualmente fazendo um curso técnico em informática.</em>
 </p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/llucas_cav/)
