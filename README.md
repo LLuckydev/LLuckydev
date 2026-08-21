@@ -10,7 +10,7 @@
   <em>Sou desenvolvedor front-end, e no momento ReactJs está sendo minha paixão, estou atualmente fazendo um curso técnico em informática.</em>
 </p>
 
-<a href="https://www.linkedin.com/in/lucas-cavalheiro-5513642b2/" target="_blank">
+<a href="https://www.linkedin.com/in/lucas-da-silva-cavalheiro-5513642b2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
