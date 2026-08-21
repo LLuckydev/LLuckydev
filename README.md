@@ -6,6 +6,9 @@
 </p>
 
 <h1 align="center">🍀 Prazer, me chamo Lucas da Silva Cavalheiro 🍀</h1>
+<p align="center">
+  <em>Sou desenvolvedor front-end, e no momento ReactJs está sendo minha paixão, estou atualmente fazendo um curso técnico em informática.</em>
+</p>
 
 <a href="https://www.linkedin.com/in/lucas-cavalheiro-5513642b2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -18,10 +21,6 @@
   <a href="https://x.com/lc_lucky_" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-
-<p align="center">
-  <em>Sou desenvolvedor front-end, e no momento ReactJs está sendo minha paixão, estou atualmente fazendo um curso técnico em informática.</em>
-</p>
 
 <br/>
 
