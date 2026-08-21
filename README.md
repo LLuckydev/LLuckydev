@@ -11,8 +11,6 @@
   <em>Sou desenvolvedor front-end, e no momento ReactJs está sendo minha paixão, estou atualmente fazendo um curso técnico em informática.</em>
 </p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/llucas_cav/)
-
 <br/>
 
 ## 🔮 Linguagens que tenho conheciento:
